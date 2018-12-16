@@ -17,6 +17,7 @@ This fits tightly to the highly iterative implementation, testing, and maintenan
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nm8RbKennWg" frameborder="0" allowfullscreen></iframe>
 </p>
+
 A well designed and stable architecture also conforms to **OCP** (Open-Closed Principle), hence, whether a system follows OCP patterns strictly enough is a simple way to evaluate the quality of its architecture design[[7]]. The *Single-Responsibility Principle* of OCP says that 
 
 > “A class should have only one reason to change”[[8]]. 
@@ -123,7 +124,7 @@ public class Main {
 }
 ```
 
-Anyhow, I hope you enjoyed reading this. Feel free to comment any suggestions you have or as matter of fact anything you want to ask me. Cya next time!
+Anyhow, I hope you enjoyed reading this. Cya next time!
 
   [1]: http://swerl.tudelft.nl/twiki/pub/Main/KoenEgelink/Masters_Thesis_Koen_Egelink_PUBLIC_BANNER.pdf "K. Egelink, Multi-Version Software Analysis to Detect Architectural Mismatches."
   [2]: http://www.amazon.co.uk/The-Pragmatic-Programmer-Andrew-Hunt/dp/020161622X "A. Hunt and D. Thomas, The Pragmatic Programmer: From Journeyman to Master."
