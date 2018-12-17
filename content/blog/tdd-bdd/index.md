@@ -3,7 +3,7 @@ title: What is the difference between Behaviour-driven Development and Test-driv
 date: "2015-04-23T22:12:03.284Z"
 ---
 
-![TDD](./tdd.png)
+![TDD](tdd.png)
 
 ##Difference between TDD & BDD
 
